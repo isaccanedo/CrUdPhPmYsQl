@@ -1,4 +1,4 @@
-# CrUdPhPmYsQl
+# :fish: Crud PHP MYSQL
 :star: Operações CRUD com PHP e MySql
 
 --

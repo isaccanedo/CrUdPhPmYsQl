@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * @autor Isac Canedo
+ */
+
 $host = "LOCALHOST";
 $user = "R@@T";
 $password = "R@@T";

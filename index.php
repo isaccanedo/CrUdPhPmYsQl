@@ -1,6 +1,10 @@
 <?php
 include 'dbconfig.php';
 
+/**
+ * @autor Isac Canedo
+ */
+
 //excluir condição
 if(isset($_GET['delete_id']))
 {

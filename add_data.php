@@ -1,5 +1,10 @@
 <?php
 include 'dbconfig.php';
+
+/**
+ * @autor Isac Canedo
+ */
+
 if(isset($_POST['btn-save']))
 {
 	// variáveis para dados de entrada

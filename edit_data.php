@@ -1,5 +1,10 @@
 <?php
 include 'dbconfig.php';
+
+/**
+ * @autor Isac Canedo
+ */
+
 if(isset($_GET['edit_id']))
 {
 	$sql_query="SELECT * FROM users WHERE user_id=".$_GET['edit_id'];

@@ -60,7 +60,7 @@ if(isset($_POST['btn-cancel']))
 
 <div id="header">
 	<div id="content">
-    <label>Operações com PHP e MySql - <a href="https://github.com/isaccanedo" target="_blank">Isac Canedo</a></label>
+    <label>Operações com PHP e MySql - <a href="https://github.com/isaccanedo/crud-php-mysql" target="_blank">Isac Canedo</a></label>
     </div>
 </div>
 
